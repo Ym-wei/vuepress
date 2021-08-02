@@ -23,32 +23,29 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "主页",
         "link": "/",
-        "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
-        "link": "/timeline/",
-        "icon": "reco-date"
+        "text": "时间轴",
+        "link": "/timeline/"
       },
       {
-        "text": "Docs",
-        "icon": "reco-message",
+        "text": "文档",
         "items": [
           {
-            "text": "vuepress-reco",
+            "text": "文档1",
             "link": "/docs/theme-reco/"
           }
         ]
       },
       {
-        "text": "Contact",
+        "text": "链接",
         "icon": "reco-message",
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/Ym-wei",
             "icon": "reco-github"
           }
         ]
@@ -81,7 +78,7 @@ module.exports = {
         "link": "https://www.recoluan.com"
       },
       {
-        "title": "vuepress-theme-reco",
+        "title": "vuepress-theme-22reco",
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
@@ -91,8 +88,8 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "'ming''[",
-    "authorAvatar": "/avatar.png",
+    "author": "ming",
+    "authorAvatar": "/logo.png",
     "record": "xxxx",
     "startYear": "2017"
   },
